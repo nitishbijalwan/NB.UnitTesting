@@ -29,5 +29,6 @@ namespace NB.UnitTesting
             }
             return sum;
         }
+
     }
 }
